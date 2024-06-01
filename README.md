@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Here's a picture of my street :
+
+░░░░░░███████ ]▄▄▄▄▄▄▄▄▃
+
+▂▄▅█████████▅▄▃▂
+
+I███████████████████].
+
+◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤
 <!--
 **RumanOfficial/RumanOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
