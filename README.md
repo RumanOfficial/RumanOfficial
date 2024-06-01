@@ -25,13 +25,13 @@ Here's a picture of my street :
 
 #### Who am I ?
 Well, I am...
-> Currently working at the ErrallandGroup (my organization)
-> Currently learning how to program
+- Currently working at the ErrallandGroup (my organization)
+- Currently learning how to program
 
 #### My infos
-> Name : RumanOfficial
-> Pronouns : He/Him
-> Fun fact : I am myself
+- Name : RumanOfficial
+- Pronouns : He/Him
+- Fun fact : I am myself
 
 
 
